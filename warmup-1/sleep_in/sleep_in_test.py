@@ -1,11 +1,12 @@
 '''
-Tests for the sleep_in function
+Unit tests for the sleep_in function for [this Coding Bat problem](https://codingbat.com/prob/p173401)
 '''
+# pylint: disable=unused-variable
 
 # import the code to be tested
 from sleep_in import sleep_in
 
-# begin writing tests
+# begin writing tests (top-level test suite)
 def describe_a_sleep_in_function():
 
   def that_determines_whether_or_not_we_should_sleep_in():
