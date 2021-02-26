@@ -4,5 +4,6 @@ In this repository, I'm recording my progress working through exercises in Pytho
 
 ## Completed So Far
 
-* Warmup-1
-  * sleep_in
+* [Warmup-1](/warmup-1)
+  * [sleep_in](/warmup-1/sleep_in)
+  * [monkey_trouble](/warmup-1/monkey_trouble)
